@@ -7,7 +7,12 @@ To use this plugin, you must link Jquery first
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
 ```
 
-The main.js file
+Then the ajaxLoader.js file
+```
+<script type="text/javascript" src="ajaxLoader/ajaxLoader.js"></script>
+```
+
+And the main.js file
 ```
 <script type="text/javascript" src="main.js"></script>
 ```
@@ -18,10 +23,6 @@ $(".ajaxLoader").ajaxLoader({
 });
 ```
 
-Then the ajaxLoader.js file
-```
-<script type="text/javascript" src="ajaxLoader/ajaxLoader.js"></script>
-```
 
 ## Set up the plugin
 
